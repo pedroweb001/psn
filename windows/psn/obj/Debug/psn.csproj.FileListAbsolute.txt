@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\psn\psn\bin\Debug\psn.exe.config
+C:\Users\User\source\repos\psn\psn\bin\Debug\psn.exe
+C:\Users\User\source\repos\psn\psn\bin\Debug\psn.pdb
+C:\Users\User\source\repos\psn\psn\obj\Debug\psn.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\psn\psn\obj\Debug\psn.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\psn\psn\obj\Debug\psn.Properties.Resources.resources
+C:\Users\User\source\repos\psn\psn\obj\Debug\psn.csproj.GenerateResource.cache
+C:\Users\User\source\repos\psn\psn\obj\Debug\psn.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\psn\psn\obj\Debug\psn.exe
+C:\Users\User\source\repos\psn\psn\obj\Debug\psn.pdb
+C:\Users\User\source\repos\psn\psn\obj\Debug\psn.frm_principal.resources
+C:\Users\User\source\repos\psn\psn\obj\Debug\psn.forms.frm_login.resources
