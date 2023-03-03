@@ -1,0 +1,10 @@
+C:\Users\pedro.silva\source\repos\psn\psn\bin\Debug\psn.exe.config
+C:\Users\pedro.silva\source\repos\psn\psn\bin\Debug\psn.exe
+C:\Users\pedro.silva\source\repos\psn\psn\bin\Debug\psn.pdb
+C:\Users\pedro.silva\source\repos\psn\psn\obj\Debug\psn.csproj.AssemblyReference.cache
+C:\Users\pedro.silva\source\repos\psn\psn\obj\Debug\psn.Properties.Resources.resources
+C:\Users\pedro.silva\source\repos\psn\psn\obj\Debug\psn.csproj.GenerateResource.cache
+C:\Users\pedro.silva\source\repos\psn\psn\obj\Debug\psn.csproj.CoreCompileInputs.cache
+C:\Users\pedro.silva\source\repos\psn\psn\obj\Debug\psn.exe
+C:\Users\pedro.silva\source\repos\psn\psn\obj\Debug\psn.pdb
+C:\Users\pedro.silva\source\repos\psn\psn\obj\Debug\psn.forms.frm_login.resources
