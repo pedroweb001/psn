@@ -28,6 +28,7 @@ namespace psn.forms
             {
                 txtuser.Clear();
                 txtuser.Focus();
+                txtpwd.Clear();
                 return;
             }
         }
