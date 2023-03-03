@@ -21,5 +21,16 @@ namespace psn.forms
         {
             txtuser.Focus();
         }
+
+        private void btn_login_Click(object sender, EventArgs e)
+        {
+            while (txtuser.Text == "" || txtpwd.Text == "")
+            {
+                txtuser.Clear();
+                txtuser.Focus();
+                return;
+            }
+        }
     }
 }
+        
