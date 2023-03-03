@@ -31,7 +31,15 @@ namespace psn.forms
                 txtpwd.Clear();
                 return;
             }
-        }
-    }
+            cls_banco conectar = new cls_banco();
+            if (conectar.connect())
+            {
+                MessageBox.Show("Conectado com sucesso!", "Conexão realizada", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            else
+            {
+                MessageBox.Show("Erro. Não foi possível conectar ao banco de dados!", "Conexão realizada", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+        }            
+            }
 }
-        

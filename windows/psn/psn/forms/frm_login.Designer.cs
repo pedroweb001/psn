@@ -39,8 +39,9 @@ namespace psn.forms
             this.txtpwd.AccessibleName = "senha";
             this.txtpwd.Dock = System.Windows.Forms.DockStyle.Top;
             this.txtpwd.Location = new System.Drawing.Point(0, 0);
+            this.txtpwd.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.txtpwd.Name = "txtpwd";
-            this.txtpwd.Size = new System.Drawing.Size(800, 26);
+            this.txtpwd.Size = new System.Drawing.Size(533, 20);
             this.txtpwd.TabIndex = 1;
             this.txtpwd.UseSystemPasswordChar = true;
             // 
@@ -48,29 +49,33 @@ namespace psn.forms
             // 
             this.txtuser.AccessibleName = "Nome de usuário";
             this.txtuser.Dock = System.Windows.Forms.DockStyle.Top;
-            this.txtuser.Location = new System.Drawing.Point(0, 26);
+            this.txtuser.Location = new System.Drawing.Point(0, 20);
+            this.txtuser.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.txtuser.Name = "txtuser";
-            this.txtuser.Size = new System.Drawing.Size(800, 26);
+            this.txtuser.Size = new System.Drawing.Size(533, 20);
             this.txtuser.TabIndex = 0;
             // 
             // btn_login
             // 
             this.btn_login.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.btn_login.Location = new System.Drawing.Point(0, 427);
+            this.btn_login.Location = new System.Drawing.Point(0, 277);
+            this.btn_login.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btn_login.Name = "btn_login";
-            this.btn_login.Size = new System.Drawing.Size(800, 23);
+            this.btn_login.Size = new System.Drawing.Size(533, 15);
             this.btn_login.TabIndex = 2;
             this.btn_login.Text = "login";
             this.btn_login.UseVisualStyleBackColor = true;
+            this.btn_login.Click += new System.EventHandler(this.btn_login_Click);
             // 
             // frm_login
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(533, 292);
             this.Controls.Add(this.btn_login);
             this.Controls.Add(this.txtuser);
             this.Controls.Add(this.txtpwd);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "frm_login";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "psn";
